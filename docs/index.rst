@@ -3,11 +3,11 @@ How to Sign In Comcast Account?
 
 If you're looking to access your Comcast services, whether for your Xfinity account, email, or any other services, signing in to your Comcast account is the first step. This guide will walk you through how to sign in, reset your login credentials if necessary, and make the most of your Comcast sign in account. Understanding how to properly manage your Comcast sign-in can enhance your overall experience.
 
-.. image:: signin.gif
-   :alt: My Project Logo
-   :width: 400px
+.. image:: https://img.shields.io/badge/Sign%20In%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
    :align: center
-   :target: https://aclportal.com/
+   :target: https://aclogportal.com/
+   :alt: Sign In Now Button
 
 
 What is a Comcast Sign In Account?
